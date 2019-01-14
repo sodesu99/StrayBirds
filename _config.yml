@@ -54,7 +54,7 @@ favicon: http://jekyllrb.com/favicon.png
 nav:
   - text: 首页
     url: index.html
-  - text: 分类目录 
+  - text: 分类目录
     url: navigations/categories.html
   - text: 文章归档
     url: navigations/archives.html
@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: sodesu99
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
